@@ -174,7 +174,8 @@ java -jar target/demo-0.0.1-SNAPSHOT.jar --server.port=9090
 | Type | Link |
 |------|------|
 | **GitHub Repository** | https://github.com/candy-arun/bfhl-webhook-solution |
-| **RAW JAR File** | *(Replace with your RAW link)* |
+| **RAW JAR File** | https://raw.githubusercontent.com/candy-arun/bfhl-webhook-solution/main/target/demo-0.0.1-SNAPSHOT.jar
+ |
 
 ---
 
